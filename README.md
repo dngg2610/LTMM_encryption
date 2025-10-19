@@ -17,7 +17,7 @@ Chạy chương trình:
 
 ⚙️ khi chạy chương trình, nhập lần lượt:
 
-Nhap do dai cua vector S: 256
+Nhap do dai cua vector S: 64
 
 Nhap do dai cua khoa K: 5
 
@@ -29,12 +29,12 @@ Nhap Plaintext: Hanoi University of Science and Technology
 
 ⚙️ Sau khi nhập xong, chương trình sẽ in ra:
 
-Khoi tao gia tri ban dau cua S : 0 1 2 3 ... 255
+Khoi tao gia tri ban dau cua S : 0 1 2 3 ... 631
 
 Vector khoi tao T : 1 2 3 4 5 1 2 3 4 5 ...
 
-Vector hoan vi S:
-...
-Dong khoa la: 57 12 203 99 ...
+Vector hoan vi S: 17 40 .....
 
-Ciphertext la: Ä ½ Ò ­ ¹ ª ...
+Dong khoa la: 61 10 10 43 30 ..... 
+
+Ciphertext la: u k d D w z _ E H G m Y S K D ^ n C c y | p ~ H / V x h s [ ] A S W g k n h 1 :
